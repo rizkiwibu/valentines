@@ -1,5 +1,5 @@
 function onWindowLoad() {
-    alert("WARNING!!! PLEASE ANSWER THE FOLLOWING QUESTION CAREFULLY!");
+    alert("PERINGATAN!!! HARAP JAWAB PERTANYAAN BERIKUT DENGAN TELITI!");
 }
 
 window.onload = onWindowLoad;
